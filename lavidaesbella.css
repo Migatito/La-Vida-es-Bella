@@ -1,0 +1,35 @@
+body{
+   color:red    
+}
+
+#contenedor-izquierda{
+	background-color: #00DDFF;
+	padding: 1%;
+
+	width: 45%;
+	float: left;
+}
+#contenedor-derecha{
+	background-color: #00DDFF;
+	width: 50%;
+	padding: 1%;
+	float: right;
+}
+#contenedor-derecha iframe{
+	width: 100%;
+	height: 50%;
+}
+#comentario{
+	width: 100%;
+	height: 200px;
+}
+.btn{
+	background: #EE5A24;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+#contenedor-derecha #letra{
+	font-family: Romana;
+}
